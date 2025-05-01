@@ -5,10 +5,11 @@ Welcome to **Furnish.et**, an interactive 3D furniture website where users can e
 ---
 
 ## 📸 **Project Screenshot**
-![Screenshot 2025-05-01 181840](https://github.com/user-attachments/assets/8c14f5f4-1176-4b18-86e5-92a66f552e2e)
-![Screenshot 2025-05-01 181851](https://github.com/user-attachments/assets/90692a25-c348-4fec-abf9-4d3f95376025)
-![Screenshot 2025-05-01 181859](https://github.com/user-attachments/assets/41506f00-e70a-4d06-943a-e49a0c1088c0)
-![Screenshot 2025-05-01 181912](https://github.com/user-attachments/assets/28668098-a2a2-4613-b704-f0d8862335ba)
+![Screenshot 2025-05-01 181840](https://github.com/user-attachments/assets/3e2a29bc-7128-4111-9d06-092b21e53d55)
+![Screenshot 2025-05-01 181851](https://github.com/user-attachments/assets/70e8a0c8-eb50-4520-a7ef-78ccc66f128b)
+![Screenshot 2025-05-01 181859](https://github.com/user-attachments/assets/0c8389f7-d921-4f74-891f-c1ca37313a4b)
+![Screenshot 2025-05-01 181912](https://github.com/user-attachments/assets/9507a1d5-d45b-4ba8-9ff0-2d76f4f48812)
+
 ---
 
 ## 🛠️ **Technologies Used**
